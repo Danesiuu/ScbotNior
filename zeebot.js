@@ -1,7 +1,7 @@
 /*
  * Biasakan Jangan Asal Ubah
  * Nanti Error Yang di Salahin Developer nya
- * Kalo Ada Bug Lapor!! Jan Diem
+ * Kalo Ada Bug Lapor!! Jan Diem ya
 */
 
 let {		
